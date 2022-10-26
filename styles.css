@@ -12,7 +12,7 @@ body {
 
 table {
 	border-collapse: collapse;
-	border: 2px black solid;
+	border: 2px rgb(226, 29, 29) solid;
 	font: 12px sans-serif;
 }
 
